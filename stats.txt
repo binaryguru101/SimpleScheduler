@@ -1,0 +1,8 @@
+History  ROUND ROBIN :
+Number:  PID  FNAME  Priority  t_exec 
+1        1554  ./fibb1.out    1    12.000          
+2        1534  ./fibb2.out    4    4.000        
+3        1555  ./fibb3.out    2    8.000   
+
+running we can as as 2nd process is at highest priority we can see its exec in the least amounnt of time whereas number
+1 took the most time hence its better to  consider assigning higher priorities to critical jobs to improve overall efficiency.
